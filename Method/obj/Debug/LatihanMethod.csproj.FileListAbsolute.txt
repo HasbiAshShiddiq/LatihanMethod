@@ -1,0 +1,7 @@
+D:\18.11.2252\#5\Method\Method\Method\obj\Debug\LatihanMethod.csprojAssemblyReference.cache
+D:\18.11.2252\#5\Method\Method\Method\obj\Debug\LatihanMethod.csproj.CoreCompileInputs.cache
+D:\18.11.2252\#5\Method\Method\Method\bin\Debug\Method.exe.config
+D:\18.11.2252\#5\Method\Method\Method\bin\Debug\Method.exe
+D:\18.11.2252\#5\Method\Method\Method\bin\Debug\Method.pdb
+D:\18.11.2252\#5\Method\Method\Method\obj\Debug\Method.exe
+D:\18.11.2252\#5\Method\Method\Method\obj\Debug\Method.pdb
